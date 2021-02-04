@@ -1,0 +1,16 @@
+Fri May 22 18:46:59 2020
+ - ImageServer Started
+Fri May 22 18:47:02 2020
+ - New conection established
+Fri May 22 18:47:02 2020
+ - New Image Incoming
+Fri May 22 18:47:02 2020
+ - Image Received Successfully
+Fri May 22 18:47:02 2020
+ - Applying Median Filter
+Fri May 22 18:47:02 2020
+ - Applying Mean Filter
+Fri May 22 18:47:02 2020
+ - Sorting image by color
+Fri May 22 18:47:02 2020
+ - Process Finished

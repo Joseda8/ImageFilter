@@ -1,0 +1,14 @@
+[Unit]
+Description=ImageServer Daemon
+After=network.target
+StartLimitIntervalSec=0
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=1
+User=joseda8
+ExecStart=/usr/local/bin/ImageServer.sh
+
+[Intall]
+WantedBy=multi-user.target
